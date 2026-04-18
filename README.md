@@ -39,11 +39,3 @@ python -m pip install requests
 
 ## 📄 免责声明
 本项目仅供学习交流技术使用，请勿用于任何非法用途或违反学校网络使用规定的行为。
-```
-
----
-
-### 操作提示：
-1. 直接复制上面的全部内容。
-2. 粘贴到你当前的 [GitHub 编辑页面](https://github.com/noxargenta/ecut-autologin-jiangxifuzhou/edit/main/README.md) 中。
-3. 点击右上角的 **Commit changes...** 绿色按钮提交。
